@@ -35,7 +35,7 @@ I'm a student passionate about software engineering, algorithms, and building re
 - Robotics and microcontrollers
 
 
-## Featured Projects
+## Featured Project
 ### 📅 PlanerMPA
 A personal productivity planner inspired by Google Calendar.
 Built with:
@@ -51,13 +51,12 @@ Features:
 - Event scheduling
 
 
-### 🏒 Micro:bit Table Hockey Game
-A table hockey game developed in Processing with Micro:bit controller integration.
-Features:
-- Keyboard control
-- Micro:bit controller integration
-- Real-time interaction between hardware and software
-
+## Other Projects
+### 🔎 Hardware Regex Implementation
+A hardware-based implementation of regular expression matching using digital logic concepts.
+Focus areas:
+- Digital logic design
+- Hardware optimization
 
 ### 🚗 Smart Parking Sensor System
 A parking assistance system using Micro:bit sensors.
@@ -66,12 +65,13 @@ Features:
 - Sensor data processing
 - Visualization in Processing
 
+### 🏒 Micro:bit Table Hockey Game
+A table hockey game developed in Processing with Micro:bit controller integration.
+Features:
+- Keyboard control
+- Micro:bit controller integration
+- Real-time interaction between hardware and software
 
-### 🔎 Hardware Regex Implementation
-A hardware-based implementation of regular expression matching using digital logic concepts.
-Focus areas:
-- Digital logic design
-- Hardware optimization
 
 
 ## Goals
